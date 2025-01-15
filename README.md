@@ -39,7 +39,7 @@ GlobalDiseaseOutbreakTracker/
 - Clone the repository:
 
  ```bash
-git clone https://github.com/your-repo-name/GlobalDiseaseOutbreakTracker.git
+git clone https://github.com/AdityaSrivastavDS/Global-Disease-Outbreak-Tracker
 cd GlobalDiseaseOutbreakTracker
  ```
 
